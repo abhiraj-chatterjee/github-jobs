@@ -1,3 +1,3 @@
 # GitHub Jobs Project
 
-**Technology Stack**: HTML, CSS, React, Node.js, Bootstrap
+**Technology Stack**: HTML, CSS, JavaScript, React, Node.js, Bootstrap
